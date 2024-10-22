@@ -9,6 +9,9 @@ photutils = "*"
 matplotlib = "*"
 scipy = "*"
 pillow = "*"
+seaborn = "*"
+opencv-python = "*"
+scikit-image = "*"
 
 [dev-packages]
 ipykernel = "*"
