@@ -12,6 +12,7 @@ pillow = "*"
 seaborn = "*"
 opencv-python = "*"
 scikit-image = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
